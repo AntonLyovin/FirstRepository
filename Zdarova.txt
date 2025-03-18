@@ -7,4 +7,6 @@ pidor
 
 
 zdelal izmenu clon master3
+zdelal izmenu clon master2
+
 
