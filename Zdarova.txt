@@ -7,3 +7,4 @@ pidor
 
 
 zdelal izmenu clon master
+
