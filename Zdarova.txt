@@ -4,3 +4,6 @@ typoe govno typogo govna
 poshel nahyi
 
 pidor
+
+
+zdelal izmenu clon master
