@@ -9,4 +9,6 @@ pidor
 zdelal izmenu clon master3
 zdelal izmenu clon master2
 
+line from git2
+
 
